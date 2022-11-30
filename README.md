@@ -13,7 +13,7 @@
         
         **→ Customers are using various devices such as the web, iPhone, and Android, as well as the OS.**
 
-    * Analyze inflow routes and search keywords - Customers of Kmong visit the service through various channels such as Naver and Facebook
+    * Analyze inflow routes and search keywords - Customers visit the service through various channels such as Naver and Facebook
      
         **→ Analyze which channels (Naver, Facebook, etc.) and through which keywords or content you visit Help marketers create new advertising content or increase search keywords**
 
